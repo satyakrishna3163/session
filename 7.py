@@ -1,3 +1,6 @@
+# How would you check if a given number is prime in Python
+
+
 num = int(input("enter the number"))
 def is_prime(num): 
     if(num <= 1): 

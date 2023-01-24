@@ -1,3 +1,5 @@
+#How would you print the Fibonacci sequence up to a given number in Python
+
 def fib(n):
     a = 0
     b = 1

@@ -1,3 +1,5 @@
+#How would you find the most frequent word in a text file in Python
+
 from collections import Counter 
 def word_count(fname):
         with open(fname) as f:

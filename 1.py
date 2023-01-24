@@ -1,3 +1,5 @@
+# How would you remove duplicates from a list in Python
+
 def Remove(duplicate):
     final_list = []
     for num in duplicate:

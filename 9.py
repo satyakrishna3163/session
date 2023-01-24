@@ -1,3 +1,5 @@
+#How would you find the intersection of two lists in Python
+
 def intersection_list(list1,list2):
     list3 =[value for value in list1 if value in list2]
     return list3

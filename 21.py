@@ -1,3 +1,5 @@
+#How would you use the "zip" function in Python to combine two lists element-wise
+
 import itertools
   
 list_1 = [[1, 3], [4, 5], [5, 6]]

@@ -1,3 +1,5 @@
+# How would you use the "itertools" module in python to find all possible permutations of a given list
+
 def perm(a, k=0):
    if k == len(a):
       print (a)

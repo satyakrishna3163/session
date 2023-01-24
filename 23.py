@@ -1,3 +1,5 @@
+#How would you create a class in Python that represents a bank account, with methods for depositing and withdrawing money, as well as returning the account balance
+
 class Bank_Account:
     def __init__(self):
         self.balance=0
