@@ -1,6 +1,5 @@
 # How would you check if a given number is prime in Python
 
-
 def checkPrime(x):
     for i in range(2, x):
         if n%i==0:
